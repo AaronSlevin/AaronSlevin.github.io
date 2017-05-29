@@ -2,7 +2,7 @@
   "title": "Default",
   "name": "default",
   "version": "2.0.0",
-  "description": "Provides a simple User authentication system.",
+  "description": "Provides a simple fitness based, user centric sharing application.",
   "preview": {
     "url": "http://formio.github.io/formio-app-basic",
     "repo": "https://github.com/formio/formio-app-basic"
